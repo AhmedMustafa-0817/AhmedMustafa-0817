@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366f1,50:8b5cf6,100:ec4899&height=240&section=header&text=Ahmed%20Mustafa&fontSize=64&fontColor=ffffff&fontAlignY=40&desc=CS%20%40%20FAST-NUCES%20%C2%B7%20Machine%20Learning%20%C2%B7%20Research&descSize=18&descAlignY=62" alt="Ahmed Mustafa banner" width="100%"/>
 
 <a href="https://github.com/AhmedMustafa-0817">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=900&color=8B5CF6&center=true&vCenter=true&width=640&lines=Gold+Medalist+%C2%B7+Rank+1+in+Batch;Classification+benchmarking+under+faculty+supervision;ML+projects+%C2%B7+Systems+in+C%2FC%2B%2B+%C2%B7+Applied+Python" alt="Typing intro"/>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=900&color=8B5CF6&center=true&vCenter=true&width=640&lines=Gold+Medalist+%C2%B7+Ex-Senior+Math+TA;ML+projects+%C2%B7+Systems+in+C%2FC%2B%2B+%C2%B7+Applied+Python" alt="Typing intro"/>
 </a>
 
 <br/>
